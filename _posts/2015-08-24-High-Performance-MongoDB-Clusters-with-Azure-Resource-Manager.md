@@ -7,7 +7,7 @@ author-link: "http://timpark.io"
 date:   2015-08-24 16:23:28
 tags: ARM MongoDB Azure Cloud
 color: "blue"
-#image: "{{ site.baseurl }}/images/imagename.png" #should be ~350px tall
+image: "images/2015-08-24-High-Performance-MongoDB-Clusters-with-Azure-Resource-Manager_images/parameters.png"
 excerpt: High Performance MongoDB Clusters with Azure Resource Manager
 ---
 

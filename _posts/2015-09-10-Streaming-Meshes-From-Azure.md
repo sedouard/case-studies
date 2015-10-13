@@ -7,6 +7,7 @@ date:   2015-09-10 10:00:00
 tags: Azure 3D Unity3D Streaming Pyrite3D Cloud
 color: "blue"
 excerpt: "Large scale 3D reconstructions created from aerial data captures are quickly becoming an important tool for many industries including commercial construction, agriculture and mining."
+image: "images/2015-09-10-Pyrite3D-Overview_images/begard.png"
 ---
 
 Large scale 3D reconstructions created from aerial data captures are quickly becoming an important tool for many industries including commercial construction, agriculture and mining.  Camera and reconstruction technology are continually improving, and as such the size of these data-sets continues to grow as well.  These large 3D meshes and textures are commonly several gigabytes in size and require high-end hardware to view.

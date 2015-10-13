@@ -7,7 +7,7 @@ author-link: "http://catalystcode.github.io/case-studies/"
 date:   2015-07-21 23:34:28
 tags: Image processing Windows Desktop IoT
 color: "blue"
-#image: "{{ site.baseurl }}/images/imagename.png" #should be ~350px tall
+image: "images/2015-07-21-Using-camera-stream-for-real-time-object-tracking%20in-Windows-apps_images/image002.png"
 excerpt: Using camera stream for real time object tracking in Windows apps
 ---
 

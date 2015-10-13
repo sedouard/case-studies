@@ -7,6 +7,7 @@ date:   2015-08-30 10:00:00
 tags: Azure DevOps AWS VPC Cloud
 color: "blue"
 excerpt: "A quick case study on connecting Azure to AWS"
+image: "http://az731655.vo.msecnd.net/content/awsazurediagram.png"
 ---
 
 ## Why Connect Two Clouds?

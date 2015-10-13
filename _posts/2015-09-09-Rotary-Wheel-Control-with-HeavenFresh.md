@@ -7,6 +7,7 @@ date: 2015-09-09 04:35:31
 tags: universal-windows-app csharp uwp Desktop
 color: blue
 excerpt: Rotary Wheel Control with HeavenFresh
+image: "images/2015-09-09-Rotary-Wheel-Control-with-HeavenFresh/label-center.png"
 ---
 
 Windows 10 introduces the Universal Windows Platform (UWP) providing a common app platform enabling the ability to install the same app package onto every Windows 10 device:  phone, desktop, Xbox, IoT, Surface Hub, etc. We worked with [@HeavenFresh](https://twitter.com/heavenfresh) to create a UWP application and, in the process, a rotary wheel user control. This case study describes the approach taken in building the resulting user control including the mechanics involved with drawing a rotary wheel, supporting user interaction, and the usage of storyboards for animations. 

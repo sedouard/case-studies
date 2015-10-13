@@ -7,7 +7,7 @@ author-link: "http://www.mikelanzetta.com"
 date:   2015-08-26 16:23:28
 tags: Azure EventHubs Leaflet SignalR Geo Maps Cloud
 color: "blue"
-#image: "{{ site.baseurl }}/images/2015-08-26-Real-Time-Maps-with-Event-Hubs-and-SignalR/route_animation.gif" #should be ~350px tall
+image: "images/2015-08-26-Real-Time-Maps-with-Event-Hubs-and-SignalR/route_animation.gif" 
 excerpt: Real-time Maps with Event Hubs and SignalR Using Leaflet
 ---
 
