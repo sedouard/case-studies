@@ -19,17 +19,36 @@
     margin: 0px;
 }
 
-.navbar-brand::before {
-	content: "";
-	background-image: url("../images/logo.svg");
-	background-repeat: no-repeat;
-	height: 40px;
-	width: 400px;
-	display: inline-block;
-	margin: 8px 0 0 0;
-	vertical-align: sub;
+.navbar-brand:before {
+  
+    content: "";
+    background-image: url("../images/logo.svg");
+    background-repeat: no-repeat;
+    vertical-align: sub;
+    display: inline-block;
+    height: 26px;
 }
 
+@media(max-width: 420px) {
+  .navbar-brand:before {
+    width: 258px;
+    margin: 17px 0 0 0;
+  }
+}
+
+@media(max-width: $screen-sm) and (min-width: 421px) {
+  .navbar-brand:before {
+    width: 300px;
+    margin: 16px 0 0 0;
+  }
+}
+
+@media(min-width: $screen-sm) {
+  .navbar-brand:before {
+    width: 365px;
+    margin: 13px 0 0 0;
+  }
+}
 .navbar-nav {
     margin: 0 (-$navbar-padding-horizontal);
 
