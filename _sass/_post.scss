@@ -29,6 +29,11 @@
       position: absolute;
       bottom: $spacing-unit;
     }
+
+    h3 {
+      background: rgba(0,0,0,0.6);
+      padding: 20px 5px 20px 20px;
+    }
 }
 
 .post {

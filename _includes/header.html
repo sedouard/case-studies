@@ -2,31 +2,7 @@
   <nav class="navbar navbar-default">
         <div class="container">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-list">
-                    <span class="sr-only">Toggle navigation</span>
-                    <i class="icon-hamburger"></i>
-                </button>
-                <a class="navbar-brand" href="{{ site.baseurl }}/" title="">{{ site.title }}</a>
-            </div>
-    
-            <div class="collapse navbar-collapse" id="navbar-list">
-                <ul class="nav navbar-nav navbar-right">
-                    <li {% if page.url == "/index.html"  %}class="active"{% endif %} >
-                        <a href="{{site.baseurl}}/">everything <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li {% if page.url == "/tag/IoT/index.html"  %}class="active"{% endif %}>
-                        <a href="{{site.baseurl}}/tag/IoT/index.html">iot</a>
-                    </li>
-                    <li {% if page.url == "/tag/Cloud/index.html"  %}class="active"{% endif %}>
-                        <a href="{{site.baseurl}}/tag/Cloud/index.html">cloud</a>
-                    </li>
-                    <li {% if page.url == "/tag/Mobile/index.html"  %}class="active"{% endif %}>
-                        <a href="{{site.baseurl}}/tag/Mobile/index.html">mobile</a>
-                    </li>
-                    <li {% if page.url == "/tag/Desktop/index.html"  %}class="active"{% endif %}>
-                        <a href="{{site.baseurl}}/tag/Desktop/index.html">desktop</a>
-                    </li>
-                </ul>
+                <a class="navbar-brand" href="{{ site.baseurl }}/" title=""><div class="navbar-text">Partner Catalyst Case Studies</div></a>
             </div>
         </div>
     </nav>

@@ -14,9 +14,19 @@
 }
 
 .navbar-brand {
-    font-size: 0px;
+    width: 100%;
     line-height: 0px;
-    margin: 0px;
+    margin: 0px;    
+}
+
+.navbar-header {
+    width:100%;
+}
+
+.navbar-text {
+    text-align:right;
+    float:right;
+    text-color:#737474;
 }
 
 .navbar-brand:before {
