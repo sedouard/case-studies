@@ -1,1 +1,1 @@
-# Deplyoing Scalable Application Services to Azure using BOSH
+#Deploying Scalable Application Services to Azure using BOSH
