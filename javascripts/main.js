@@ -176,8 +176,8 @@
         $('.post-content p').flowtype({
             minimum: 320,
             maximum: 1280,
-            minFont: 14,
-            maxFont: 32,
+            minFont: 12,
+            maxFont: 16,
             fontRatio: 34
         });
         $('.post-content li').flowtype({
